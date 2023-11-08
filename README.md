@@ -1,0 +1,2 @@
+# gamesite
+game archives storage
